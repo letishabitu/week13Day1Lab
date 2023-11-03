@@ -1,0 +1,42 @@
+*{
+    padding: 10;
+    margin: 30px;
+    background-color:bisque;
+
+    
+    
+}
+#game{
+    width: 800px;
+    height: 200px;
+    top: 100px;
+    border: 1px solid black  
+    
+    
+}
+#userInput{
+     position: relative;
+     margin-top: 35px;
+    
+    
+}
+   
+
+#character{
+    width: 120px;
+    height: 100px;
+    top: 200px;
+    
+    display: flex;
+    align-items: left;
+    
+}
+#block{
+    width: 150px;
+    height: 200px;
+    top: 200px;
+    margin-left:100px;
+    display: flex;
+    align-items: center;
+    
+}
